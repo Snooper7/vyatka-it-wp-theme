@@ -1,5 +1,9 @@
 {
     "name": "snooper7/vyatka-it-wp-theme",
+    "type": "wordpress-theme",
+    "description": "Theme for smart WordPress developing by Vyatka-IT team.",
+    "stability":"stable",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "App\\": "src/",
