@@ -9,12 +9,7 @@
             "App\\": "src/",
             "App\\Resources\\": "src/resources",
             "App\\Services\\": "src/services"
-        },
-        "files": [
-            "src/config.php",
-            "src/filters.php",
-            "src/api.php"
-        ]
+        }
     },
     "authors": [
         {
